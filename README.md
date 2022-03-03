@@ -13,4 +13,4 @@
 
 [![FelipeDiasD GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDiasD&show_icons=true&theme=dark)](https://github.com/FelipeDiasD/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDiasD)](https://github.com/FelipeDiasD/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDiasD&theme=dark)](https://github.com/FelipeDiasD/github-readme-stats)
