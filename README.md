@@ -19,14 +19,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDiasD&theme=dark)](https://github.com/FelipeDiasD/github-readme-stats)
 
-##
 
-SkillSet
+
+###SkillSet
+
 <div style = "display: inline_block"><br>
-<img align="center" alt="React Native" height = "30"width="40" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="Visual Studio" height = "30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img align="center" alt="React Native" height = "30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="Android" height = "30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+<img align="center" alt="Android" height = "30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
 
-<img align="center" alt="React Native" height = "30"width="40" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img align="center" alt="React Native" height = "30"width="40" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
