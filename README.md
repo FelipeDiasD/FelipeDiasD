@@ -4,6 +4,7 @@
 
 - 🛠️ Trabalho dando suporte de TI para uma plataforma EAD e também para usuários na câmara municipal de minha cidade (Taubaté)
 - 📲  Atualmente estou estudando React Native e desenvolvimento mobile
+- 📚  Por enquanto desenvolvo apenas alguns projetos pequenos para estudo 
 - 👨‍💻 Estou buscando minha primeira vaga na área de programação
 - 💡  Fato curioso: Gosto muito de cultura POP, música e games (principalmente FPS)
 
