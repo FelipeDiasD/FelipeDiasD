@@ -8,8 +8,8 @@
 - 👨‍💻 Estou buscando minha primeira vaga na área de programação
 - 💡  Fato curioso: Gosto muito de cultura POP, música e games (principalmente FPS)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDiasD&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDiasD&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDiasD&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDiasD&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### SkillSet e ferramentas 🛠️
