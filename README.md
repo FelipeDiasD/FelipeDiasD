@@ -8,7 +8,8 @@
 - 👨‍💻  Seeking my first job in software development.
 - 💡  Fun fact: I'm a big star wars fan, may the force be with you.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDiasD&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FelipeDiasD?cardType=level&theme=merko)](https://git.io/awesome-stats-card)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDiasD&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
