@@ -3,7 +3,7 @@
 ### Computer Engineering Student | IT support intern | Mobile developer
 
 
-- 📲  Developing mobile applications with javascript && react native.
+- 📲  Developing mobile applications with javascript/typescript && react native.
 - 📚  Working on personal projects to keep learning.
 - 👨‍💻  Seeking my first job in software development.
 - 💡  Fun fact: I'm a big star wars fan, may the force be with you.
