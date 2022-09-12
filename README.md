@@ -1,12 +1,8 @@
 ### Hello there, my name is Felipe!
 
-### Computer Engineering Student | IT support intern | Mobile developer
+### Computer Engineering Student | Software developer intern at Ericsson
 
 
-- 📲  Developing mobile applications with javascript/typescript && react native.
-- 📚  Working on personal projects to keep learning.
-- 👨‍💻  Seeking my first job in software development.
-- 💡  Fun fact: I'm a big star wars fan, may the force be with you.
 
 
 
