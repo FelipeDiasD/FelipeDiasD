@@ -1,6 +1,6 @@
 ### Hello there, my name is Felipe!
 
-### Computer Engineering Student | Software developer intern at Ericsson
+### Computer Engineering Graduate | Software developer
 
 
 
